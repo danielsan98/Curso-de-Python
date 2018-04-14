@@ -1,0 +1,28 @@
+Instalar Python
+
+Ingresar a la pg:
+	https://www.python.org/
+
+Descargar la version: 3.6.4
+	Alternativo de decarga
+	https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe
+
+Ejecuta (instala)
+	
+
+Instalar Atom.
+Ingresar la pag:
+	https://atom.io/
+	
+Descargar el instalador (detecta la arquitectura automaticamente)
+
+inatalar paquetes
+	file -> Settings-> install
+	
+	
+
+instalar paquetes
+	Active-power-mode
+	python-tools
+	
+	
